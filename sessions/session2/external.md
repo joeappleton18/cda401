@@ -1,8 +1,8 @@
-#Including External Javascript 
+# Including External Javascript
 
-So far we have looked a [two different ways to include javaScript](https://sirus21.gitbooks.io/internet_technology_block_2/content/session11/first_program.html) into our HTML pages:
+[So far we have looked at two different ](https://sirus21.gitbooks.io/cda401/content/sessions/session1/first_program.html)ways to include javaScript into our HTML pages:
 
-> **In the head - executed when called** 
+> **In the head - executed when called**
 
 ```html
 <html>
@@ -18,8 +18,7 @@ So far we have looked a [two different ways to include javaScript](https://sirus
 </html>
 ```
 
-
-> **In the body - executed when the page loads** 
+> **In the body - executed when the page loads**
 
 ```html
 <html>
@@ -35,36 +34,24 @@ So far we have looked a [two different ways to include javaScript](https://sirus
 </html>
 ```
 
-##Including javaScript in a external file
+## Including javaScript in a external file
 
 Just like with CSS it's considered good practice to separate the javaScript code from our HTML. The `<script>` tag allows us to utilise the `src` attribute to include javaScript contained in an external file.   The following conventions must be adhered to:
 
 * The external file should have a `.js` extension
 * You do not need to use the `<script>` tag in the external `.js` file 
 
-
-> **Below we include demo\_script_src.js which lives int he `scripts` folder**  
+> **Below we include demo\_script\_src.js which lives int he **`scripts`** folder**
 
 ```html
 <html>
 <head>
-	<script type="text/javascript" src="scripts/demo_script_src.js"></script>
+    <script type="text/javascript" src="scripts/demo_script_src.js"></script>
 </head>
 <body>
   ....
 </body>
 ```
-
-
-
-
-
-
-
-
-
-
-
 
 
 
