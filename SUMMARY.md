@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Session 1 - Introduction To JavaScript](sessions/session1/introduction.md)
-    * [Understanding JavaScript](sessions/session1/understanding_java_script.md)
+        * [Understanding JavaScript](sessions/session1/understanding_java_script.md)
     * [Exercise 1 - Our First Javascript Program](sessions/session1/first_program.md)
     * [Comments](sessions/session1/comments.md)
     * [Variables](sessions/session1/varibles.md)
@@ -12,11 +12,3 @@
 
 
 
-<!-- * [Session 2  - External javaScript and Event Listeners](sessions/session2/introductionmd.md)
-    * [Session 1 Recap](sessions/session2/session_1_revision.md)
-    * [Adding Event Listeners](sessions/session2/event_listener.md)
-    * [External JavaScript Files](sessions/session2/external.md)
-    * [Exercise 1  - Session 1 Recap](sessions/session2/exercise1.md)
-    * [Exercise 2 - Adding External javaScriptFiles](sessions/session2/exercise2.md)
-    * [Exercise 3 - Our First JavaScript Project](sessions/session2/exercise3.md)
--->
