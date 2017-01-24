@@ -7,6 +7,7 @@ Key Learning Outcomes:
 - Form validation in javaScript
 - To be able to use GitHuB and GitHub Pages
 
+Rough Weekly Schedule
 
 
 | Week Number | Topic |
