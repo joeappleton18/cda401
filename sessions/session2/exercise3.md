@@ -36,14 +36,14 @@ Include the above code into your `main()` function.
 
 2\) In your `main` function, declare a variable `curr_time` and assign it the concatenated values of  curr\_hour , curr\_minute and curr\_second  separated by a ":".
 
-Add the instruction `console.log(current_time);` in your `main()` function, this will print the value of current time to the console.   
+Add the instruction `console.log(current_time);` in your `main()` function, this will print the value of current time to the console.  
 You should see something similar to below in the google chrome developer tools console.
 
 ![console](img/google-tools.png)
 
 ## 5\) Attache the time and date to the HTML document
 
-[Using `docment.getElementeById("insertid").innerHtml =` insert the current time into your HTML clock.](https://sirus21.gitbooks.io/internet_technology_block_2/content/session11/exercise3.html)
+Using `docment.getElementeById("insertid").innerHtml =` insert the current time into your HTML clock.
 
 ## 6\) Let's start time
 
