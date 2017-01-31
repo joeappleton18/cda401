@@ -104,11 +104,11 @@ var y;
 
 if (x >= 50)  {   
     
-    y = false;  
+  y = false;  
   
 } else {
  
-   y = true;
+  y = true;
 
 }
 
