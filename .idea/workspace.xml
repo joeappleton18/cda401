@@ -34,14 +34,14 @@
         <entry file="file://$PROJECT_DIR$/sessions/session3/conditional_statements.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="220">
-                <caret line="98" column="0" lean-forward="true" selection-start-line="98" selection-start-column="0" selection-end-line="98" selection-end-column="0" />
+              <first_editor relative-caret-position="355">
+                <caret line="103" column="0" lean-forward="true" selection-start-line="103" selection-start-column="0" selection-end-line="103" selection-end-column="0" />
                 <folding>
-                  <marker date="1485892335000" expanded="true" signature="414:466" ph="{...}" />
-                  <marker date="1485892335000" expanded="true" signature="506:586" ph="//..." />
-                  <marker date="1485892335000" expanded="true" signature="601:646" ph="{...}" />
-                  <marker date="1485892335000" expanded="true" signature="743:785" ph="{...}" />
-                  <marker date="1485892335000" expanded="true" signature="790:832" ph="{...}" />
+                  <marker date="1485892629000" expanded="true" signature="414:466" ph="{...}" />
+                  <marker date="1485892629000" expanded="true" signature="506:586" ph="//..." />
+                  <marker date="1485892629000" expanded="true" signature="601:646" ph="{...}" />
+                  <marker date="1485892629000" expanded="true" signature="743:785" ph="{...}" />
+                  <marker date="1485892629000" expanded="true" signature="790:832" ph="{...}" />
                 </folding>
               </first_editor>
               <second_editor />
@@ -336,12 +336,12 @@
       <workItem from="1485239219943" duration="4910000" />
       <workItem from="1485802434118" duration="497000" />
       <workItem from="1485804828708" duration="254000" />
-      <workItem from="1485847415710" duration="3450000" />
+      <workItem from="1485847415710" duration="3672000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9111000" />
+    <option name="totallyTimeSpent" value="9333000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -801,14 +801,14 @@
     <entry file="file://$PROJECT_DIR$/sessions/session3/conditional_statements.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="220">
-            <caret line="98" column="0" lean-forward="true" selection-start-line="98" selection-start-column="0" selection-end-line="98" selection-end-column="0" />
+          <first_editor relative-caret-position="355">
+            <caret line="103" column="0" lean-forward="true" selection-start-line="103" selection-start-column="0" selection-end-line="103" selection-end-column="0" />
             <folding>
-              <marker date="1485892335000" expanded="true" signature="414:466" ph="{...}" />
-              <marker date="1485892335000" expanded="true" signature="506:586" ph="//..." />
-              <marker date="1485892335000" expanded="true" signature="601:646" ph="{...}" />
-              <marker date="1485892335000" expanded="true" signature="743:785" ph="{...}" />
-              <marker date="1485892335000" expanded="true" signature="790:832" ph="{...}" />
+              <marker date="1485892629000" expanded="true" signature="414:466" ph="{...}" />
+              <marker date="1485892629000" expanded="true" signature="506:586" ph="//..." />
+              <marker date="1485892629000" expanded="true" signature="601:646" ph="{...}" />
+              <marker date="1485892629000" expanded="true" signature="743:785" ph="{...}" />
+              <marker date="1485892629000" expanded="true" signature="790:832" ph="{...}" />
             </folding>
           </first_editor>
           <second_editor />

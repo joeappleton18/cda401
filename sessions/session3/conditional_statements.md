@@ -96,7 +96,21 @@ Complete the below block of code, such that if x is bigger or equal to 50 it set
 {% initial %}
 var x = getRandomNumber();
 var y; 
+ 
+{% solution %}
 
+var x = getRandomNumber();
+var y; 
+
+if (x >= 50)  {   
+    
+  y = false;  
+  
+} else {
+ 
+  y = true;
+
+}
 
 {% validation %}
 if (x >= 50) {
