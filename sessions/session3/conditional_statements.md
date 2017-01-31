@@ -85,18 +85,28 @@ like.
 
 
 {% exercise %}
-Define a variable `x` equal to 10.
+`getRandomNumber()` returns a number between 1 and 100. We've assigned this value to x. Complete the below block of code, such that if x is bigger or equal to 50 it sets y = false . Otherwise it should set y = true.
 {% initial %}
-var x =
+var x = getRandomNumber();
+var y; 
+ 
 {% solution %}
-var x = 10;
+var x = ;
 {% validation %}
-assert(x == 10);
+if (x > = 50) {
+assert(y == true);
+} else {
+
+assert(y == false);
+
+}
+
+
 {% context %}
 // This is context code available everywhere
 // The user will be able to call magicFunc in his code
-function magicFunc() {
-    return 3;
+function getRandomNumber() {
+    return rand.nextInt(100) + 1;
 }
 {% endexercise %}	
 
