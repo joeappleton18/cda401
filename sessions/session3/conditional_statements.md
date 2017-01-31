@@ -38,52 +38,56 @@ if (5 > 3){
 
 The bigger than symbol `>` is know as a comparison operator.  You may want to make use of the following operators:
 
- | Operator | Description |
- :--- | --- | :--- |
- | == | equal to |
- | != | not equal |
- | &gt; | greater than |
- | &lt; | less than |
- | &gt;= | greater than or equal to |
- | &lt;= | less than or equal to  |
+|Operator |  Description |
+|---------|--------------|
+| `==`    |   equal to   |
+| `!=`    |   not equal  |
+| `>`     | greater than | 
+| `<`     | less than    |
+| `>=`    | greater than or equal to |
+| `<=`    |  less than or equal to |  
+
+ 
 
 We can only have 1 else with every if. If we want to specify more than one alternative then we have to use `else if`.
 
 Consider the following example:
 
-if \(role == "Teacher"\){
+```
+if (role == "Teacher"){
 
-    console.log\("You are a teacher!"\);
-
-}
-
-else if \(role == "Student"\){
-
-    console.log\("You are a student!"\);
+    console.log("You are a teacher!");
 
 }
 
-else if \(role == "Admin"\){
+else if (role == "Student"){
 
-    console.log\("Your are an admin"\);
+    console.log("You are a student!");
+
+}
+
+else if (role == "Admin"\){
+
+    console.log("Your are an admin");
 
 }
 
 else{
 
-     console.log\("I don’t know what you are!"\);
+     console.log("I don’t know what you are!");
 
 }
 
-In the above example you will notice that an `else if` statement is used  
-to specify alternative paths and that you can have more than 1 `else if`  
-statement. In fact, you can have as many `else if` statements as you  
-like.
+```
 
+In the above example you will notice that an `else if` statement is used  
+to specify alternative paths and that you can have more than 1 `else if`  statement. In fact, you can have as many `else if` statements as you like.
 
 ##Section Exercise
 
-getRandomNumber() returns a number between 1 and 100. We've assigned this value to x. Complete the below block of code, such that if x is bigger or equal to 50 it sets y = false . Otherwise it should set y = true.
+`getRandomNumber()` is a function returns a number between 1 and 100. We've assigned this value to a variable `x`. 
+
+Complete the below block of code, such that if x is bigger or equal to 50 it sets y = false . Otherwise it should set y = true.
 
 
 
