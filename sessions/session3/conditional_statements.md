@@ -81,7 +81,7 @@ statement. In fact, you can have as many `else if` statements as you
 like.
 
 
-
+##Section Exercise
 
 
 {% exercise %}
@@ -106,7 +106,7 @@ assert(y == false);
 // This is context code available everywhere
 // The user will be able to call magicFunc in his code
 function getRandomNumber() {
-    return rand.nextInt(100) + 1;
+    return Math.floor((Math.random() * 100) + 1);
 }
 {% endexercise %}	
 
