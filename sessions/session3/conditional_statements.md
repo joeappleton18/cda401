@@ -38,14 +38,14 @@ if (5 > 3){
 
 The bigger than symbol `>` is know as a comparison operator.  You may want to make use of the following operators:
 
-|  | Operator | Description |
-| :--- | :--- | :--- |
-|  | == | equal to |
-|  | != | not equal |
-|  | &gt; | greater than |
-|  | &lt; | less than |
-|  | &gt;= | greater than or equal to |
-|  | &lt;= | less than or equal to  |
+ | Operator | Description |
+ :--- | --- | :--- |
+ | == | equal to |
+ | != | not equal |
+ | &gt; | greater than |
+ | &lt; | less than |
+ | &gt;= | greater than or equal to |
+ | &lt;= | less than or equal to  |
 
 We can only have 1 else with every if. If we want to specify more than one alternative then we have to use `else if`.
 
@@ -84,13 +84,21 @@ like.
 
 
 
-
-
-
-
-```
-
-```
+{% exercise %}
+Define a variable `x` equal to 10.
+{% initial %}
+var x =
+{% solution %}
+var x = 10;
+{% validation %}
+assert(x == 10);
+{% context %}
+// This is context code available everywhere
+// The user will be able to call magicFunc in his code
+function magicFunc() {
+    return 3;
+}
+{% endexercise %}
 
 
 
