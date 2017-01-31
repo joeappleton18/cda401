@@ -83,9 +83,12 @@ like.
 
 ##Section Exercise
 
+getRandomNumber() returns a number between 1 and 100. We've assigned this value to x. Complete the below block of code, such that if x is bigger or equal to 50 it sets y = false . Otherwise it should set y = true.
+
+
 
 {% exercise %}
-getRandomNumber() returns a number between 1 and 100. We've assigned this value to x. Complete the below block of code, such that if x is bigger or equal to 50 it sets y = false . Otherwise it should set y = true.
+
 {% initial %}
 var x = getRandomNumber();
 var y; 
