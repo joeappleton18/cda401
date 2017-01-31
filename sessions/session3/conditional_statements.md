@@ -1,4 +1,4 @@
-``````# Conditional Statements
+# Conditional Statements
 
 In order to code decisions into our javaScript programs it's necessary to use conditional statements know as `if` statements.
 
