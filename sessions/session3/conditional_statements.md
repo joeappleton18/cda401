@@ -98,7 +98,7 @@ assert(x == 10);
 function magicFunc() {
     return 3;
 }
-{% endexercise %}
+{% endexercise %}	
 
 
 
