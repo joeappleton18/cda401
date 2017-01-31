@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="352b6d06-5395-4c4e-a89c-7732c8fa6d88" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/styles/website.css" afterPath="$PROJECT_DIR$/styles/website.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PROVISIONALSUMMARY.md" afterPath="$PROJECT_DIR$/PROVISIONALSUMMARY.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SUMMARY.md" afterPath="$PROJECT_DIR$/SUMMARY.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,8 +22,8 @@
         <entry file="file://$PROJECT_DIR$/SUMMARY.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="490">
-                <caret line="23" column="75" lean-forward="false" selection-start-line="23" selection-start-column="75" selection-end-line="23" selection-end-column="75" />
+              <first_editor relative-caret-position="409">
+                <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -40,32 +41,38 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="website.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PROVISIONALSUMMARY.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PROVISIONALSUMMARY.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="81">
+                <caret line="3" column="75" lean-forward="false" selection-start-line="3" selection-start-column="75" selection-end-line="3" selection-end-column="75" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="website.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/styles/website.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="27">
-              <caret line="1" column="26" lean-forward="false" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
+              <caret line="1" column="27" lean-forward="true" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="27" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="event_listener.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sessions/session2/event_listener.md">
+      <file leaf-file-name="functions.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sessions/session3/functions.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <first_editor relative-caret-position="112">
+                <caret line="34" column="1" lean-forward="true" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
                 <folding>
-                  <marker date="1485350928000" expanded="true" signature="305:336" ph="{...}" />
-                  <marker date="1485350928000" expanded="true" signature="1787:2256" ph="..." />
-                  <marker date="1485350928000" expanded="true" signature="1795:1888" ph="..." />
-                  <marker date="1485350928000" expanded="true" signature="1969:2247" ph="..." />
-                  <marker date="1485350928000" expanded="true" signature="2304:2376" ph="/** Main Function is invoked when the html ...*/" />
-                  <marker date="1485350928000" expanded="true" signature="2393:2638" ph="{...}" />
-                  <marker date="1485350928000" expanded="true" signature="2487:2577" ph="//..." />
-                  <marker date="1485350928000" expanded="true" signature="2640:2683" ph="/** buttonClicked call back function ...*/" />
-                  <marker date="1485350928000" expanded="true" signature="2710:2924" ph="{...}" />
+                  <marker date="1454317108000" expanded="true" signature="738:755" ph="{...}" />
+                  <marker date="1454317108000" expanded="true" signature="850:901" ph="{...}" />
                 </folding>
               </first_editor>
               <second_editor />
@@ -73,34 +80,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PROVISIONALSUMMARY.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PROVISIONALSUMMARY.md">
+      <file leaf-file-name="exercise1.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sessions/session3/exercise1.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-                <folding />
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding>
+                  <marker date="1454567218000" expanded="true" signature="542:568" ph="{...}" />
+                  <marker date="1454567218000" expanded="true" signature="585:756" ph="{...}" />
+                </folding>
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="some_tools_to_help_you.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sessions/session2/some_tools_to_help_you.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="355">
-                <caret line="49" column="1" lean-forward="false" selection-start-line="49" selection-start-column="1" selection-end-line="49" selection-end-column="1" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="introduction.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sessions/session1/introduction.md">
+      <file leaf-file-name="exercise2.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sessions/session3/exercise2.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="0">
@@ -161,10 +158,10 @@
       <list>
         <option value="$PROJECT_DIR$/sessions/session2/some_tools_to_help_you.md" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/PROVISIONALSUMMARY.md" />
-        <option value="$PROJECT_DIR$/SUMMARY.md" />
         <option value="$PROJECT_DIR$/book.json" />
         <option value="$PROJECT_DIR$/styles/website.css" />
+        <option value="$PROJECT_DIR$/SUMMARY.md" />
+        <option value="$PROJECT_DIR$/PROVISIONALSUMMARY.md" />
       </list>
     </option>
   </component>
@@ -332,12 +329,12 @@
       <workItem from="1485239219943" duration="4910000" />
       <workItem from="1485802434118" duration="497000" />
       <workItem from="1485804828708" duration="254000" />
-      <workItem from="1485847415710" duration="1325000" />
+      <workItem from="1485847415710" duration="1897000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6986000" />
+    <option name="totallyTimeSpent" value="7558000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -641,17 +638,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PROVISIONALSUMMARY.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sessions/session2/event_listener.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -728,17 +714,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SUMMARY.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="490">
-            <caret line="23" column="75" lean-forward="false" selection-start-line="23" selection-start-column="75" selection-end-line="23" selection-end-column="75" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/book.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
@@ -747,11 +722,72 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/SUMMARY.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="409">
+            <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PROVISIONALSUMMARY.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="81">
+            <caret line="3" column="75" lean-forward="false" selection-start-line="3" selection-start-column="75" selection-end-line="3" selection-end-column="75" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/styles/website.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27">
-          <caret line="1" column="26" lean-forward="false" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
+          <caret line="1" column="27" lean-forward="true" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="27" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sessions/session3/functions.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="112">
+            <caret line="34" column="1" lean-forward="true" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
+            <folding>
+              <marker date="1454317108000" expanded="true" signature="738:755" ph="{...}" />
+              <marker date="1454317108000" expanded="true" signature="850:901" ph="{...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sessions/session3/exercise1.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding>
+              <marker date="1454567218000" expanded="true" signature="542:568" ph="{...}" />
+              <marker date="1454567218000" expanded="true" signature="585:756" ph="{...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sessions/session3/exercise2.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

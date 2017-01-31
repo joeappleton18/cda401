@@ -98,13 +98,26 @@ var x = getRandomNumber();
 var y; 
  
 {% solution %}
-var x = ;
+
+var x = getRandomNumber();
+var y; 
+
+if (x >= 50)  {   
+    
+    y = false;  
+  
+} else {
+ 
+   y = true;
+
+}
+
 {% validation %}
 if (x >= 50) {
-assert(y == true);
+	assert(y == true);
 } else {
 
-assert(y == false);
+	assert(y == false);
 
 }
 

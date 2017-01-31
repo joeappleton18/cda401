@@ -1,4 +1,4 @@
-#Exercise 2 - Form Validation
+git #Exercise 2 - Form Validation
 
 The idea of this exercise is to introduce how to perform basic form validation in an incremental fashion.  The process has been broken down intosteps,  you'll tutor will demo straight the solution to each step after the allotted time. If you're not in the lesson the entire solution will be available in next weeks notes. 
 
