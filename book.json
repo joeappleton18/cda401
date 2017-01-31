@@ -1,5 +1,7 @@
 {
     "plugins": [
-        "exercises"
+        "myplugin@https://github.com/joeappleton18/plugin-exercises.git#1.0.0"
     ]
 }
+
+
