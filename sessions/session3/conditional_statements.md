@@ -42,10 +42,10 @@ The bigger than symbol `>` is know as a comparison operator.  You may want to ma
 |---------|--------------|
 | `==`    |   equal to   |
 | `!=`    |   not equal  |
-| `>`     | greater than | 
-| `<`     | less than    |
-| `>=`    | greater than or equal to |
-| `<=`    |  less than or equal to |  
+| `&gt;`     | greater than | 
+| `&lt;`     | less than    |
+| `&gt;=`    | greater than or equal to |
+| `%lt;=`    |  less than or equal to |  
 
  
 
@@ -96,21 +96,7 @@ Complete the below block of code, such that if x is bigger or equal to 50 it set
 {% initial %}
 var x = getRandomNumber();
 var y; 
- 
-{% solution %}
 
-var x = getRandomNumber();
-var y; 
-
-if (x >= 50)  {   
-    
-  y = false;  
-  
-} else {
- 
-  y = true;
-
-}
 
 {% validation %}
 if (x >= 50) {
