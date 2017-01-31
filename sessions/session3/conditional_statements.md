@@ -1,4 +1,4 @@
-# Conditional Statements
+``# Conditional Statements
 
 In order to code decisions into our javaScript programs it's necessary to use conditional statements know as `if` statements.
 
@@ -42,10 +42,10 @@ The bigger than symbol `>` is know as a comparison operator.  You may want to ma
 |---------|--------------|
 | `==`    |   equal to   |
 | `!=`    |   not equal  |
-| `&gt;`     | greater than | 
-| `&lt;`     | less than    |
-| `&gt;=`    | greater than or equal to |
-| `%lt;=`    |  less than or equal to |  
+| `>`     | greater than | 
+| `<`     | less than    |
+| `<=`    | greater than or equal to |
+| `>=`    |  less than or equal to |  
 
  
 
