@@ -93,7 +93,7 @@ var y;
 {% solution %}
 var x = ;
 {% validation %}
-if (x > = 50) {
+if (x >= 50) {
 assert(y == true);
 } else {
 
