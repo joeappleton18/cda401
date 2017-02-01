@@ -48,16 +48,6 @@ The bigger than symbol `>` is know as a comparison operator.  You may want to ma
 |>=|greater than or equal to|
 |<=|less than or equal to||
 
-=======
-|Operator |  Description |
-|---------|--------------|
-| `==`    |   equal to   |
-| `!=`    |   not equal  |
-| `>`     | greater than | 
-| `<`     | less than    |
-| `<=`    | greater than or equal to |
-| `>=`    |  less than or equal to |  
->>>>>>> 7a771703a809e37beb71977915bffcdb059671f4
 
  
 
@@ -78,7 +68,7 @@ else if (role == "Student"){
 
 }
 
-else if (role == "Admin"\){
+else if (role == "Admin"){
 
     console.log("Your are an admin");
 
@@ -104,43 +94,20 @@ Complete the below block of code, such that if x is bigger or equal to 50 it set
 
 
 {% exercise %}
-
+Define a variable `x` equal to 10.
 {% initial %}
-var x = getRandomNumber();
-var y; 
- 
+var x =
 {% solution %}
-
-var x = getRandomNumber();
-var y; 
-
-if (x >= 50)  {   
-    
-    y = false;  
-  
-} else {
- 
-   y = true;
-
-}
-
+var x = 10;
 {% validation %}
-if (x >= 50) {
-	assert(y == true);
-} else {
-
-	assert(y == false);
-
-}
-
-
+assert(x == 10);
 {% context %}
 // This is context code available everywhere
 // The user will be able to call magicFunc in his code
-function getRandomNumber() {
-    return Math.floor((Math.random() * 100) + 1);
+function magicFunc() {
+    return 3;
 }
-{% endexercise %}	
+{% endexercise %}
 
 
 
