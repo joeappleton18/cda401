@@ -43,3 +43,19 @@ console.log(product); // will output 8 to the console
 * A function with no parameters must still include `( )` after the function name
 * The word `function` must be written in lowercase letters in your code 
 * You must call a function with the exact same capitals as in the function definition
+
+
+##Exercise 
+
+
+{% exercise %}
+Declare a function named `triple` that takes an argument and returns its triple.
+{% solution %}
+var triple = function(x) {
+    return x * 3;
+}
+{% validation %}
+assert(triple);
+assert(triple(4) === 12);
+assert(triple(10) === 30);
+{% endexercise %}
