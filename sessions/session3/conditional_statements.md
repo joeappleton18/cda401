@@ -38,6 +38,7 @@ if (5 > 3){
 
 The bigger than symbol `>` is know as a comparison operator.  You may want to make use of the following operators:
 
+<<<<<<< HEAD
 |Operator | Description |
 |---------|  -----------|
 |==|equal to|
@@ -47,6 +48,16 @@ The bigger than symbol `>` is know as a comparison operator.  You may want to ma
 |>=|greater than or equal to|
 |<=|less than or equal to||
 
+=======
+|Operator |  Description |
+|---------|--------------|
+| `==`    |   equal to   |
+| `!=`    |   not equal  |
+| `>`     | greater than | 
+| `<`     | less than    |
+| `<=`    | greater than or equal to |
+| `>=`    |  less than or equal to |  
+>>>>>>> 7a771703a809e37beb71977915bffcdb059671f4
 
  
 
