@@ -87,7 +87,7 @@ to specify alternative paths and that you can have more than 1 `else if`  statem
 
 ##Section Exercise
 
-`getRandomNumber()` is a function returns a number between 1 and 100. We've assigned this value to a variable `x`. 
+`randomFunc()` is a function returns a number between 1 and 100. We've assigned this value to a variable `x`. 
 
 Complete the below block of code, such that if x is bigger or equal to 50 it sets y = false . Otherwise it should set y = true.
 
@@ -96,16 +96,43 @@ Complete the below block of code, such that if x is bigger or equal to 50 it set
 {% exercise %}
 Define a variable `x` equal to 10.
 {% initial %}
-var x =
+var x = randomFunc();
+var y;
+
 {% solution %}
-var x = 10;
+var x = randomFunc();
+var y;
+if (x > = 50)  {
+
+    y = false;
+
+} else {
+    
+    y = true;
+}
+
+
 {% validation %}
-assert(x == 10);
+
+if (x >= 50
+  assert(y == false);
+  
+}  else {
+
+ assert(y == true);
+
+
+}
+  
+  
 {% context %}
 // This is context code available everywhere
 // The user will be able to call magicFunc in his code
-function magicFunc() {
-    return 3;
+function randomFunc() {
+    
+return   Math.floor(Math.random() * 6) + 100;  
+
+
 }
 {% endexercise %}
 
