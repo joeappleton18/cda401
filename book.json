@@ -1,16 +1,14 @@
 {
     "plugins": [
         "exercises",
-        "ga",
+        
         "analytics"
     ],
     
     "pluginsConfig": {
-        "ga": {
-            "token": "UA-45089298-2"
-        },
+       
         "analytics": {
-            "google": "UA-45089298-2",
+            "google": "UA-45089298-2"
             
         }
     }
