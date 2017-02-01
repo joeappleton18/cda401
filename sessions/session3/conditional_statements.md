@@ -38,7 +38,7 @@ if (5 > 3){
 
 The bigger than symbol `>` is know as a comparison operator.  You may want to make use of the following operators:
 
-<<<<<<< HEAD
+
 |Operator | Description |
 |---------|  -----------|
 |==|equal to|
