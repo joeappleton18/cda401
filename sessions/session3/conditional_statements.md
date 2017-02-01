@@ -38,14 +38,15 @@ if (5 > 3){
 
 The bigger than symbol `>` is know as a comparison operator.  You may want to make use of the following operators:
 
-|Operator |  Description |
-|---------|--------------|
-| `==`    |   equal to   |
-| `!=`    |   not equal  |
-| `&gt;`     | greater than | 
-| `&lt;`     | less than    |
-| `&gt;=`    | greater than or equal to |
-| `%lt;=`    |  less than or equal to |  
+|Operator | Description |
+|---------|  -----------|
+|==|equal to|
+|!=|not equal|
+|>|greater than|
+|<| 	less than|
+|>=|greater than or equal to|
+|<=|less than or equal to||
+
 
  
 
@@ -104,11 +105,11 @@ var y;
 
 if (x >= 50)  {   
     
-  y = false;  
+    y = false;  
   
 } else {
  
-  y = true;
+   y = true;
 
 }
 

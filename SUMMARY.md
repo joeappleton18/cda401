@@ -22,4 +22,6 @@
     * [Session 2 Recap](sessions/session3/session13_recap.md)
     * [Assignment Feedback](sessions/session3/assigment.md)
     * [Conditional Statements](sessions/session3/conditional_statements.md)
+    * [Functions](sessions/session3/functions.md)
+
 
