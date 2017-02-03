@@ -22,6 +22,6 @@
     * [Assignment Feedback](sessions/session3/assigment.md)
     * [Conditional Statements](sessions/session3/conditional_statements.md)
     * [Functions](sessions/session3/functions.md)
-    * [Exercises](sessions/session3/exercise.md) 
+    * [Exercises](sessions/session3/exercise1.md) 
 
 
