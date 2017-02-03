@@ -1,5 +1,15 @@
 {
-     "plugins": ["exercises"]
+    "plugins": [
+        "exercises",
+        "analytics"
+    ],
+    
+    "pluginsConfig": {
+       
+        "analytics": {
+            "google": "UA-45089298-2"
+            
+        }
+    }
+    
 }
-
-
