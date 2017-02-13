@@ -25,3 +25,9 @@
     * [Exercises](sessions/session3/exercise1.md) 
 
 
+* [Session 4 - Website Design Choices](sessions/session4/introduction.md)
+   * [Picking a Colour Scheme For Your Website](sessions/session4/colour_scheme.md)
+   * [Wire Frames](sessions/session4/wireframe.md)
+   * [WireFrame Exercise](sessions/session4/wireframecc.md)
+
+ 
