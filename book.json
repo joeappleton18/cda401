@@ -1,8 +1,7 @@
 {
     "plugins": [
-        "exercises"
-     ],
-    
-    
+        "exercises",
+        "analytics"
+    ]
     
 }
