@@ -30,4 +30,13 @@
    * [Wire Frames](sessions/session4/wireframe.md)
    * [WireFrame Exercise](sessions/session4/wireframecc.md)
 
- 
+* [Session 5 - An Introduction to Git and GitHub](sessions/session5/introduction.md)
+
+	* [What is version control] (sessions/session5/what_is_version_control.md) 
+	* [How to install Git](sessions/session5/how_to_install_git.md)
+	* [How to use git on the command line](sessions/session5/how_to_use_git_on_command_line.md)
+	* [Configuring Git](sessions/session5/initial_configuration.md)
+	* [Creating a new Git repository](sessions/session5/creating_a_new_git_repository.md)
+	* [Making Commits](sessions/session5/making_commits.md)
+	* [Rolling Back Your Work](sessions/session5/rolling_back_your_work.md)
+	* [GIT Remotes](sessions/session5/git_remotes.md)
