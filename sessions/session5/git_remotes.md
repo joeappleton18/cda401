@@ -63,7 +63,7 @@ Often you'll want to store your feature branch on the remote repository.
 
 ```git push --set-upstream origin <the name of your branch>``` 
 
-***Once the branch is created in your remote repository you can omit the `--set-upstream` flag 
+**Once the branch is created in your remote repository you can omit the `--set-upstream` flag**
 
 
 
