@@ -3,13 +3,13 @@
 The first exercise today is to complete the in-note exercise.  It's been a few weeks since we've looked at javaScript, so quickly going over some historic exercises will be a useful recap:
 
 
-## 1) Conditional Statements
+## 1.1) Conditional Statements
 
-[Read the notes and complete the exercises at the bottom of the page](http://localhost:4000/sessions/session3/conditional_statements.html) 
+[Read the notes and complete the exercises at the bottom of the page](https://sirus21.gitbooks.io/cda401/content/sessions/session3/conditional_statements.html) 
 
-## 2)  Functions  
+## 1.2)  Functions  
 
-[Read the notes and complete the exercises at the bottom of the page](http://localhost:4000/sessions/session3/conditional_statements.html) 
+[Read the notes and complete the exercises at the bottom of the page](https://sirus21.gitbooks.io/cda401/content/sessions/session3/functions.html) 
 
 
 ## 3) **IMPORTANT** Supply us with feedback
