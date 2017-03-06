@@ -12,7 +12,7 @@ The first exercise today is to complete the in-note exercise.  It's been a few w
 [Read the notes and complete the exercises at the bottom of the page](https://sirus21.gitbooks.io/cda401/content/sessions/session3/functions.html) 
 
 
-## 3) **IMPORTANT** Supply us with feedback
+## 2) **IMPORTANT** Supply us with feedback
 
 As educators we're always looking for ways to make the challenging task of learning to program easier. We'd therefore find it very useful of you could provide feedback on these exercises by filling out the 30 second feedback form (link below):
 

@@ -50,7 +50,7 @@
 
 * [Session 7 - Form Validation](sessions/session7/introduction.md)
 
-	* [In Note Exercises Practical And Feedback](sessions/session7/exercise_eperiment.md)
+   * [In Note Exercises](sessions/session7/exercise_experiment.md)
    * [How to Make a Favicon](sessions/session7/favicon.md)
    * [javaScript form Validation Introduction](sessions/session7/form_validation.md)
    * [Form Validation](sessions/session7/validation.md)
