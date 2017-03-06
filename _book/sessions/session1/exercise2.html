@@ -1,0 +1,887 @@
+
+<!DOCTYPE HTML>
+<html lang="" >
+    <head>
+        <meta charset="UTF-8">
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <title>Exercise 2 - Using Variables · GitBook</title>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="description" content="">
+        <meta name="generator" content="GitBook 3.2.2">
+        
+        
+        
+    
+    <link rel="stylesheet" href="../../gitbook/style.css">
+
+    
+            
+                
+                <link rel="stylesheet" href="../../gitbook/gitbook-plugin-exercises/exercises.css">
+                
+            
+                
+                <link rel="stylesheet" href="../../gitbook/gitbook-plugin-highlight/website.css">
+                
+            
+                
+                <link rel="stylesheet" href="../../gitbook/gitbook-plugin-search/search.css">
+                
+            
+                
+                <link rel="stylesheet" href="../../gitbook/gitbook-plugin-fontsettings/website.css">
+                
+            
+        
+
+    
+
+    
+        
+        <link rel="stylesheet" href="../../styles/website.css">
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+
+        
+    
+    
+    <meta name="HandheldFriendly" content="true"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="../../gitbook/images/apple-touch-icon-precomposed-152.png">
+    <link rel="shortcut icon" href="../../gitbook/images/favicon.ico" type="image/x-icon">
+
+    
+    <link rel="next" href="document_object.html" />
+    
+    
+    <link rel="prev" href="varibles.html" />
+    
+
+    </head>
+    <body>
+        
+<div class="book">
+    <div class="book-summary">
+        
+            
+<div id="book-search-input" role="search">
+    <input type="text" placeholder="Type to search" />
+</div>
+
+            
+                <nav role="navigation">
+                
+
+
+<ul class="summary">
+    
+    
+
+    
+
+    
+        
+        
+    
+        <li class="chapter " data-level="1.1" data-path="../../">
+            
+                <a href="../../">
+            
+                    
+                    Introduction
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2" data-path="introduction.html">
+            
+                <a href="introduction.html">
+            
+                    
+                    Session 1 - Introduction To JavaScript
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.2.1" data-path="understanding_java_script.html">
+            
+                <a href="understanding_java_script.html">
+            
+                    
+                    Understanding JavaScript
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.2" data-path="first_program.html">
+            
+                <a href="first_program.html">
+            
+                    
+                    Exercise 1 - Our First Javascript Program
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.3" data-path="comments.html">
+            
+                <a href="comments.html">
+            
+                    
+                    Comments
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.4" data-path="varibles.html">
+            
+                <a href="varibles.html">
+            
+                    
+                    Variables
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter active" data-level="1.2.5" data-path="exercise2.html">
+            
+                <a href="exercise2.html">
+            
+                    
+                    Exercise 2 - Using Variables
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.6" data-path="document_object.html">
+            
+                <a href="document_object.html">
+            
+                    
+                    The Document Object
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.7" data-path="exercise3.html">
+            
+                <a href="exercise3.html">
+            
+                    
+                    Exercise 3 - A more interesting javascript program
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3" data-path="../session2/introductionmd.html">
+            
+                <a href="../session2/introductionmd.html">
+            
+                    
+                    Session 2  - External javaScript and Event Listeners
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.3.1" data-path="../session2/session_1_revision.html">
+            
+                <a href="../session2/session_1_revision.html">
+            
+                    
+                    Session 1 Recap
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.2" data-path="../session2/external.html">
+            
+                <a href="../session2/external.html">
+            
+                    
+                    External JavaScript Files
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.3" data-path="../session2/event_listener.html">
+            
+                <a href="../session2/event_listener.html">
+            
+                    
+                    Adding Event Listeners
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.4" data-path="../session2/exercise1.html">
+            
+                <a href="../session2/exercise1.html">
+            
+                    
+                    Exercise 1  - Session 1 Recap
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.5" data-path="../session2/exercise2.html">
+            
+                <a href="../session2/exercise2.html">
+            
+                    
+                    Exercise 2 - Adding External javaScriptFiles
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.6" data-path="../session2/exercise3.html">
+            
+                <a href="../session2/exercise3.html">
+            
+                    
+                    Exercise 3 - Our First JavaScript Project
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4" data-path="../session3/introduction.html">
+            
+                <a href="../session3/introduction.html">
+            
+                    
+                    Session 3 - Functions and Conditions
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.4.1" data-path="../session3/assigment.html">
+            
+                <a href="../session3/assigment.html">
+            
+                    
+                    Assignment Feedback
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.2" data-path="../session3/conditional_statements.html">
+            
+                <a href="../session3/conditional_statements.html">
+            
+                    
+                    Conditional Statements
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.3" data-path="../session3/functions.html">
+            
+                <a href="../session3/functions.html">
+            
+                    
+                    Functions
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.4" data-path="../session3/exercise1.html">
+            
+                <a href="../session3/exercise1.html">
+            
+                    
+                    Exercises
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.5" data-path="../session4/introduction.html">
+            
+                <a href="../session4/introduction.html">
+            
+                    
+                    Session 4 - Website Design Choices
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.5.1" data-path="../session4/colour_scheme.html">
+            
+                <a href="../session4/colour_scheme.html">
+            
+                    
+                    Picking a Colour Scheme For Your Website
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.5.2" data-path="../session4/wireframe.html">
+            
+                <a href="../session4/wireframe.html">
+            
+                    
+                    Wire Frames
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.5.3" data-path="../session4/wireframecc.html">
+            
+                <a href="../session4/wireframecc.html">
+            
+                    
+                    WireFrame Exercise
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.6" data-path="../session5/introduction.html">
+            
+                <a href="../session5/introduction.html">
+            
+                    
+                    Session 5 - An Introduction to Git and GitHub
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.6.1" data-path="../session5/what_is_version_control.html">
+            
+                <a href="../session5/what_is_version_control.html">
+            
+                    
+                    What is version control
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.6.2" data-path="../session5/how_to_install_git.html">
+            
+                <a href="../session5/how_to_install_git.html">
+            
+                    
+                    How to install Git
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.6.3" data-path="../session5/how_to_use_git_on_command_line.html">
+            
+                <a href="../session5/how_to_use_git_on_command_line.html">
+            
+                    
+                    How to use git on the command line
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.6.4" data-path="../session5/initial_configuration.html">
+            
+                <a href="../session5/initial_configuration.html">
+            
+                    
+                    Configuring Git
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.6.5" data-path="../session5/creating_a_new_git_repository.html">
+            
+                <a href="../session5/creating_a_new_git_repository.html">
+            
+                    
+                    Creating a new Git repository
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.6.6" data-path="../session5/making_commits.html">
+            
+                <a href="../session5/making_commits.html">
+            
+                    
+                    Making Commits
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.6.7" data-path="../session5/rolling_back_your_work.html">
+            
+                <a href="../session5/rolling_back_your_work.html">
+            
+                    
+                    Rolling Back Your Work
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.6.8" data-path="../session5/git_remotes.html">
+            
+                <a href="../session5/git_remotes.html">
+            
+                    
+                    GIT Remotes
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.6.9" data-path="../session5/exercise.html">
+            
+                <a href="../session5/exercise.html">
+            
+                    
+                    Exercise
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.7" data-path="../session6/introduction.html">
+            
+                <a href="../session6/introduction.html">
+            
+                    
+                    Session 6 - Assignment Introduction and Tips
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+    
+        
+        <li class="divider"></li>
+        
+        
+    
+        <li class="chapter " data-level="2.1" data-path="../session7/introduction.html">
+            
+                <a href="../session7/introduction.html">
+            
+                    
+                    Session 7 - Form Validation
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="2.1.1" data-path="../session7/exercise_eperiment.md">
+            
+                <span>
+            
+                    
+                    In Note Exercises Practical And Feedback
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="2.1.1.1" data-path="../session7/favicon.html">
+            
+                <a href="../session7/favicon.html">
+            
+                    
+                    How to Make a Favicon
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.1.2" data-path="../session7/form_validation.html">
+            
+                <a href="../session7/form_validation.html">
+            
+                    
+                    javaScript form Validation Introduction
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.1.3" data-path="../session7/validation.html">
+            
+                <a href="../session7/validation.html">
+            
+                    
+                    Form Validation
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.1.4" data-path="../session7/simple_form_validation_example.html">
+            
+                <a href="../session7/simple_form_validation_example.html">
+            
+                    
+                    Form Validation Example
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.1.5" data-path="../session7/exercise2.html">
+            
+                <a href="../session7/exercise2.html">
+            
+                    
+                    Form Validation Exercise
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+
+    
+
+    <li class="divider"></li>
+
+    <li>
+        <a href="https://www.gitbook.com" target="blank" class="gitbook-link">
+            Published with GitBook
+        </a>
+    </li>
+</ul>
+
+
+                </nav>
+            
+        
+    </div>
+
+    <div class="book-body">
+        
+            <div class="body-inner">
+                
+                    
+
+<div class="book-header" role="navigation">
+    
+
+    <!-- Title -->
+    <h1>
+        <i class="fa fa-circle-o-notch fa-spin"></i>
+        <a href="../.." >Exercise 2 - Using Variables</a>
+    </h1>
+</div>
+
+
+
+
+                    <div class="page-wrapper" tabindex="-1" role="main">
+                        <div class="page-inner">
+                            
+<div id="book-search-results">
+    <div class="search-noresults">
+    
+                                <section class="normal markdown-section">
+                                
+                                <h1 id="exercise2">Exercise2</h1>
+<p>We&apos;re going to expand on the first exercise and use variables. Pay close attention on how the  <code>+</code> is used to concatenate(join together) text with variables.</p>
+<p>e.g. <code>document.write(&amp;quot;&amp;lt;p&amp;gt; Your name:&amp;quot; + name  + &amp;quot;&amp;lt;/p&amp;gt;&amp;quot; );</code></p>
+<p>Create a new file called <code>ex2.html</code> and type in the below code:</p>
+<pre><code class="lang-javascript">&lt;html&gt;
+     &lt;head&gt;
+      &lt;title&gt;JavaScript Page&lt;/title&gt;
+     &lt;/head&gt;
+     &lt;body&gt;
+         &lt;script type=&quot;text/javascript&quot;&gt;
+        //set up our variables
+        var name;
+        var age;
+        var yourLocation;
+
+        //assign values 
+        name = &quot;Joe&quot;;
+
+        //age is an integer so we don&apos;t use &quot;&quot;
+        age = 33
+
+        yourLocation = &quot;Brighton&quot;
+
+        //simple code to demonstrate output
+        document.write(&quot;&lt;p&gt; Your name:&quot; + name  + &quot;&lt;/p&gt;&quot; );
+        document.write(&quot;&lt;p&gt; Your age:&quot; + age + &quot;&lt;/p&gt;&quot; );
+        document.write(&quot;&lt;p&gt; Your location:&quot; + yourLocation  + &quot;&lt;/p&gt;&quot; );  
+
+       &lt;/script&gt;
+
+ &lt;/body&gt;
+&lt;/html&gt;
+</code></pre>
+<p>Save your file and open up the page in your browser and see what happens.</p>
+
+                                
+                                </section>
+                            
+    </div>
+    <div class="search-results">
+        <div class="has-results">
+            
+            <h1 class="search-results-title"><span class='search-results-count'></span> results matching "<span class='search-query'></span>"</h1>
+            <ul class="search-results-list"></ul>
+            
+        </div>
+        <div class="no-results">
+            
+            <h1 class="search-results-title">No results matching "<span class='search-query'></span>"</h1>
+            
+        </div>
+    </div>
+</div>
+
+                        </div>
+                    </div>
+                
+            </div>
+
+            
+                
+                <a href="varibles.html" class="navigation navigation-prev " aria-label="Previous page: Variables">
+                    <i class="fa fa-angle-left"></i>
+                </a>
+                
+                
+                <a href="document_object.html" class="navigation navigation-next " aria-label="Next page: The Document Object">
+                    <i class="fa fa-angle-right"></i>
+                </a>
+                
+            
+        
+    </div>
+
+    <script>
+        var gitbook = gitbook || [];
+        gitbook.push(function() {
+            gitbook.page.hasChanged({"page":{"title":"Exercise 2 - Using Variables","level":"1.2.5","depth":2,"next":{"title":"The Document Object","level":"1.2.6","depth":2,"path":"sessions/session1/document_object.md","ref":"sessions/session1/document_object.md","articles":[]},"previous":{"title":"Variables","level":"1.2.4","depth":2,"path":"sessions/session1/varibles.md","ref":"sessions/session1/varibles.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["exercises","livereload"],"pluginsConfig":{"exercises":{},"livereload":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"sessions/session1/exercise2.md","mtime":"2016-01-04T15:57:23.000Z","type":"markdown"},"gitbook":{"version":"3.2.2","time":"2017-03-06T16:59:04.542Z"},"basePath":"../..","book":{"language":""}});
+        });
+    </script>
+</div>
+
+        
+    <script src="../../gitbook/gitbook-plugin-exercises/jsrepl/jsrepl.js" id="jsrepl-script"></script>
+    
+    <script src="../../gitbook/gitbook.js"></script>
+    <script src="../../gitbook/theme.js"></script>
+    
+        
+        <script src="../../gitbook/gitbook-plugin-exercises/ace/ace.js"></script>
+        
+    
+        
+        <script src="../../gitbook/gitbook-plugin-exercises/ace/theme-tomorrow.js"></script>
+        
+    
+        
+        <script src="../../gitbook/gitbook-plugin-exercises/ace/mode-javascript.js"></script>
+        
+    
+        
+        <script src="../../gitbook/gitbook-plugin-exercises/exercises.js"></script>
+        
+    
+        
+        <script src="../../gitbook/gitbook-plugin-livereload/plugin.js"></script>
+        
+    
+        
+        <script src="../../gitbook/gitbook-plugin-search/search-engine.js"></script>
+        
+    
+        
+        <script src="../../gitbook/gitbook-plugin-search/search.js"></script>
+        
+    
+        
+        <script src="../../gitbook/gitbook-plugin-lunr/lunr.min.js"></script>
+        
+    
+        
+        <script src="../../gitbook/gitbook-plugin-lunr/search-lunr.js"></script>
+        
+    
+        
+        <script src="../../gitbook/gitbook-plugin-sharing/buttons.js"></script>
+        
+    
+        
+        <script src="../../gitbook/gitbook-plugin-fontsettings/fontsettings.js"></script>
+        
+    
+
+
+    </body>
+</html>
+

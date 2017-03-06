@@ -48,3 +48,11 @@
 * [Session 6 - Assignment Introduction and Tips](sessions/session6/introduction.md)
 
 
+* [Session 7 - Form Validation](sessions/session7/introduction.md)
+
+	* [In Note Exercises Practical And Feedback](sessions/session7/exercise_eperiment.md)
+   * [How to Make a Favicon](sessions/session7/favicon.md)
+   * [javaScript form Validation Introduction](sessions/session7/form_validation.md)
+   * [Form Validation](sessions/session7/validation.md)
+   * [Form Validation Example](sessions/session7/simple_form_validation_example.md)
+   * [Form Validation Exercise](sessions/session7/exercise2.md)
