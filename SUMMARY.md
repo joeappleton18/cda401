@@ -64,3 +64,12 @@
    * [The onChange Event](sessions/session8/on_change_event.md)
    * [Encoding Data Into HTML Elements](sessions/session8/enconding_information_into_elements.md)
    * [Solent Stores Exercise](sessions/session8/exercise.md)
+
+   
+   
+  [Session8 - Real Time Form Validation](sessions/session8/introduction.md)  
+   
+   * [Accessing Related Elements](sessions/session8/accessing-related_html_elements.md)  
+   * [Real Time Form Validation](sessions/session8/onBlur.md)  
+   * [Real Time Form Validation Continued](sessions/session8/formValidationExample.md)  
+   * [Exercise](sessions/session8/exercise.md)

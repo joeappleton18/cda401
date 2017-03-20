@@ -1,7 +1,6 @@
 #Solent Stores - Shopping cart exercise 
 
-The purpose of this exercise is to implement the javaScript on a shopping cart. The HTML has already been created for you.  
-
+The purpose of this exercise is to extend/improve/finish the solent stores exercise from last week. Once this is done, please work on your assignment
 ##1 Setup 
 
 [Download the project source file from here](https://www.dropbox.com/s/8ntpmdz1x2um9sp/shopping_cart_exercise.zip?dl=0).  Open up index.html in your browser, you should be presented with the following website:
@@ -87,8 +86,9 @@ Implement the functionality to allow the amount of each product to be increased.
 This naming convention is consistent for all the products, your solution will take advantage of this. 	
 
 
+#6 Add real time form validation
 
-
+The quantity box should go red if a number is entered below 0 or above 100.
 
 
 
