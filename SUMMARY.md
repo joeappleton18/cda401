@@ -67,17 +67,11 @@
 
    
    
-<<<<<<< HEAD
+   
 * [Session 9 - Real Time Form Validation](sessions/session9/introduction.md)  
    
    * [Accessing Related Elements](sessions/session9/accessing-related_html_elements.md)  
    * [Real Time Form Validation](sessions/session9/onBlur.md)  
    * [Real Time Form Validation Continued](sessions/session9/formValidationExample.md)  
-=======
-  [Session8 - Real Time Form Validation](sessions/session8/introduction.md)  
-   
-   * [Accessing Related Elements](sessions/session8/accessing-related_html_elements.md)  
-   * [Real Time Form Validation](sessions/session8/onBlur.md)  
-   * [Real Time Form Validation Continued](sessions/session8/formValidationExample.md)  
->>>>>>> 8c8ec104a155ad3d9c4301212c2ee244bea5c0f2
    * [Exercise](sessions/session8/exercise.md)
+
