@@ -47,7 +47,6 @@
 
 * [Session 6 - Assignment Introduction and Tips](sessions/session6/introduction.md)
 
-
 * [Session 7 - Form Validation](sessions/session7/introduction.md)
 
    * [In Note Exercises](sessions/session7/exercise_experiment.md)
@@ -56,3 +55,21 @@
    * [Form Validation](sessions/session7/validation.md)
    * [Form Validation Example](sessions/session7/simple_form_validation_example.md)
    * [Form Validation Exercise](sessions/session7/exercise2.md)
+
+* [Session 8 - Loops and The Data Attribute](sessions/session8/introduction.md)
+   * [Loops](sessions/session8/loops.md)
+   * [While Loop](sessions/session8/while_loop.md)
+   * [For Loop](sessions/session8/the_for_loop.md)
+   * [Looping Through a Checkbox](sessions/session8/using_a_for_loop_to_process_check_boxes.md)
+   * [The onChange Event](sessions/session8/on_change_event.md)
+   * [Encoding Data Into HTML Elements](sessions/session8/enconding_information_into_elements.md)
+   * [Solent Stores Exercise](sessions/session8/exercise.md)
+
+   
+   
+* [Session 9 - Real Time Form Validation](sessions/session9/introduction.md)  
+   
+   * [Accessing Related Elements](sessions/session9/accessing-related_html_elements.md)  
+   * [Real Time Form Validation](sessions/session9/onBlur.md)  
+   * [Real Time Form Validation Continued](sessions/session9/formValidationExample.md)  
+   * [Exercise](sessions/session8/exercise.md)
