@@ -67,7 +67,7 @@ The `setUpGame()` gets the game ready it is called after we assign elements to o
 
 - The below creates a random number between 1 and 3 and assigns it to the variable  
 
-`var prize_door_number = Math.floor(Math.random() * 3) + 1;`
+```var prize_door_number = Math.floor(Math.random() * 3) + 1;```
 
 - See if you can set up some logic after this line of code that does the following: 
 
@@ -77,7 +77,6 @@ Sets the global variable prize door, conforming to the following conditions:
 prize_door_number  == 1  then prize_door = door1
 prize_door_number  == 2  then prize_door = door2
 prize_door_number  == 3  then prize_door = door3
-
 ```
 
 
