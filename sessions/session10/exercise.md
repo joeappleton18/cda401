@@ -28,14 +28,14 @@ In `index.html` add `id` attributes with appropriate names to:
 * Door1, Door2, Door3 images , they currently do not have a source we'll sort that out next
 * The reset button
 * Goes wins and %wins
-* The question, which currently contains "Pick a door!!!!!!"
+* The question, which currently contains "Click on any door to get started"
 
 ## 2 Start the main function
 
 Open `main.js` notice how we have the following variables defined at the top of the page:
 
-\`\`\` var door1;   
-    var door2;   
+\`\`\` var door1;  
+    var door2;  
     var door3;  
     var question;  
     var prize\_door;  
@@ -49,7 +49,7 @@ Open `main.js` notice how we have the following variables defined at the top of 
 
     You should set assign elements to the following vars:
 
-door1 =  ...   
+door1 =  ...  
 door2 =  ...  
 door3 =  ...  
 question = ...  
