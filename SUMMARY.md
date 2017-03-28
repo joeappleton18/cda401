@@ -72,7 +72,9 @@
    * [Real Time Form Validation Continued](sessions/session9/formValidationExample.md)  
    * [Exercise](sessions/session8/exercise.md)
 
-[Session 10 - JavaScriptAnimation](sessions/session10/introduction.md)
+
+
+* [Session 10 - JavaScriptAnimation](sessions/session10/introduction.md)
 
    * [Global Variables](sessions/session10/global_varibles.md)
    * [Scroll To Top](sessions/session10/scroll_function.md)
