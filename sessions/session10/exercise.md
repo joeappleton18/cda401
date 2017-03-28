@@ -64,6 +64,10 @@ The `setUpGame()` gets the game ready it is called after we assign elements to o
 Complete the following:
 
 * Set the `src` of each of the doors to `img\door.png`
+* Consider the following line of code
+  ``    var prize_door_number = Math.floor(Math.random() * 3) + 1;```
+
+It generates a number between 1 and 3 and stores it in the var `prize`_`door. `See if you can write some logic which assigns a door to the global`` var `prize_door` `` based on this number. _
 
 **Run your webpage, it should now look like the above image**
 
