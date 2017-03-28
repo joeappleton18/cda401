@@ -34,12 +34,14 @@ In `index.html` add `id` attributes with appropriate names to:
 ##2 Start the main function
 Open `main.js` notice how we have the following variables defined at the top of the page:
 
-``` var door1; 
+``` 
+   var door1; 
 	var door2; 
 	var door3;
 	var question;
 	var prize_door;
 	var current_go = 1;
+	
 ```
  
 The above are global variables, this means they're accessible from any location in the program. 
@@ -55,6 +57,7 @@ door1 =  ...
 door2 =  ...
 door3 =  ...
 question = ...
+
 ```
  
 ##3 Complete the setUpGame() function 
@@ -67,7 +70,10 @@ The `setUpGame()` gets the game ready it is called after we assign elements to o
 
 - The below creates a random number between 1 and 3 and assigns it to the variable  
 
-```var prize_door_number = Math.floor(Math.random() * 3) + 1;```
+```
+var prize_door_number = Math.floor(Math.random() * 3) + 1;
+
+```
 
 - See if you can set up some logic after this line of code that does the following: 
 
@@ -77,6 +83,7 @@ Sets the global variable prize door, conforming to the following conditions:
 prize_door_number  == 1  then prize_door = door1
 prize_door_number  == 2  then prize_door = door2
 prize_door_number  == 3  then prize_door = door3
+
 ```
 
 
