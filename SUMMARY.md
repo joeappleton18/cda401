@@ -82,4 +82,3 @@
    * [A Simple Picture Gallery](sessions/session10/image_gallery.md)
    * [Adding And Removing CSS Classes](sessions/session10/addingAndRemovingClasses.md)   
    *  [Exercise](sessions/session10/exercise.md)
-
