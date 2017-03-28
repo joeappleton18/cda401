@@ -86,10 +86,6 @@ prize_door_number  == 3  then prize_door = door3
 
 ```
 
-
-
-
-
 ##4 Add click events to each of the doors
 
 - Within `main()`, add click events to each of the doors. Calling `door1click()`,`door2click()` and `door3click()`.
@@ -100,7 +96,7 @@ prize_door_number  == 3  then prize_door = door3
 
 - To start with, we'll make the first choice in our head. The second choice will be maid by clicking
 
-- For each of the door click functions check if that door equals the prize door. If it does display the car image.
+- For each of the door click functions check if that door equals the prize door. If it does display the car image otherwise display the goat. 
 
 - Choose a way to notify if the use has won or lost
 
