@@ -65,13 +65,19 @@
    * [Encoding Data Into HTML Elements](sessions/session8/enconding_information_into_elements.md)
    * [Solent Stores Exercise](sessions/session8/exercise.md)
 
-   
-   
-   
 * [Session 9 - Real Time Form Validation](sessions/session9/introduction.md)  
    
    * [Accessing Related Elements](sessions/session9/accessing-related_html_elements.md)  
    * [Real Time Form Validation](sessions/session9/onBlur.md)  
    * [Real Time Form Validation Continued](sessions/session9/formValidationExample.md)  
    * [Exercise](sessions/session8/exercise.md)
+
+[Session 10 - JavaScriptAnimation](sessions/session10/introduction.md)
+
+   * [Global Variables](sessions/session10/global_varibles.md)
+   * [Scroll To Top](sessions/session10/scroll_function.md)
+   * [javaScript image rollovers](sessions/session10/image_roll_overs.md)
+   * [A Simple Picture Gallery](sessions/session10/image_gallery.md)
+   * [Adding And Removing CSS Classes](sessions/session10/addingAndRemovingClasses.md)   
+   *  [Exercise](sessions/session10/exercise.md)
 
