@@ -96,7 +96,10 @@ prize_door_number  == 3  then prize_door = door3
 
 - To start with, we'll make the first choice in our head. The second choice will be maid by clicking
 
-- For each of the door click functions check if that door equals the prize door. If it does display the car image otherwise display the goat. 
+- For each of the door click functions check if that door equals the prize door. If it does display the car image otherwise display the goat.    For example, `if(prize_door == door1)`  will return true if `door1` is the randomly chosen door. 
+
+
+
 
 - Choose a way to notify if the use has won or lost
 
