@@ -72,8 +72,6 @@
    * [Real Time Form Validation Continued](sessions/session9/formValidationExample.md)  
    * [Exercise](sessions/session8/exercise.md)
 
-
-
 * [Session 10 - JavaScriptAnimation](sessions/session10/introduction.md)
 
    * [Global Variables](sessions/session10/global_varibles.md)
@@ -82,5 +80,6 @@
    * [A Simple Picture Gallery](sessions/session10/image_gallery.md)
    * [Adding And Removing CSS Classes](sessions/session10/addingAndRemovingClasses.md)   
    *  [Exercise](sessions/session10/exercise.md)
+
 
 * [Session 11 - Assessment Support](sessions/session11/assessment.md)
