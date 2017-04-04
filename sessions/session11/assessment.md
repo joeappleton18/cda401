@@ -32,7 +32,7 @@
 
 # 2.3.4 order.html Real Time Total \(intermediate\)
 
-* We've covered how to do this in the example[ here](https://jsfiddle.net/sirus21/2m4jczqk/)
+* We've covered how to do this in the example [here](https://jsfiddle.net/sirus21/2m4jczqk/)
 
 
 
